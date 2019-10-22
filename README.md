@@ -1,9 +1,9 @@
-﻿# awesome-fastai :globe_with_meridians: :pushpin:
+# awesome-fastai :globe_with_meridians: :pushpin:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 Collection of fastai resources: blog posts, projects, etc.
 <br></br>
 
-## v2 Code-WalkThroughs :new:
+### v2 Code-WalkThroughs :new:
 * [Youtube Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq)
 * [WT1 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-1/53940)
 * [WT2 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-2/53978)
@@ -16,10 +16,10 @@ Collection of fastai resources: blog posts, projects, etc.
 * [WT9 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-9/55234)
 * [WT10 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-10/55324)
 
-## Deploy :new:
+### Deploy :new:
 * [Starter Pack for creating fast responsive Web App for Fast.AI Vision models](https://github.com/pankymathur/fastai-vision-app)
 
-## Kaggle Links :sparkle:
+### Kaggle Links :sparkle:
 
 * [fastai v2 PipeLine Tutorial](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/21388191/download) :new:
 * [Introduction to Image Augmentation using fastai | Kaggle](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/11074080/download)
@@ -34,7 +34,7 @@ Collection of fastai resources: blog posts, projects, etc.
 
 and more.... :shipit:
 
-## Github Links :sparkle:
+### Github Links :sparkle:
 * [github.com/asvcode/fastai_resources](https://github.com/asvcode/fastai_resources)
 * [mgrankin/over9000: Over9000 optimizer](https://github.com/mgrankin/over9000)
 * [KushajveerSingh/fastai_without_fastai: Useful fastai methods like lr_find, fit_one_cycle in pure PyTorch (no need to import fastai)](https://github.com/KushajveerSingh/fastai_without_fastai)
@@ -46,7 +46,7 @@ and more.... :shipit:
 * [Fastai for Medical AI](https://github.com/renato145/fastai_scans)
 * [RSNA Intracranial Hemorrhage Detection Kaggle competition starter pack](https://github.com/radekosmulski/rsna-intracranial)
 
-## Forum Gems :sparkle:
+### Forum Gems :sparkle:
 * [Lesson 1 links to different parts in video - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/lesson-1-links-to-different-parts-in-video/27581)
 * [Tips for building large image datasets - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688/6)
 * [Geospatial Deep Learning resources & study group - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
@@ -58,7 +58,7 @@ and more.... :shipit:
 * [Things Jeremy says to do - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/things-jeremy-says-to-do/36682)
 * [Things Jeremy says to do (Part 2) - Part 2 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/things-jeremy-says-to-do-part-2/41533)
 * [ImageNette/Woof Leaderboards - guidelines for proving new high scores? - fastai users - Deep Learning Course Forums](https://forums.fast.ai/t/imagenette-woof-leaderboards-guidelines-for-proving-new-high-scores/52714/19)
-## Blogposts :sparkle:
+### Blogposts :sparkle:
 * [UPDATED FOR 2019! Learn Machine Learning & Deep Learning with us: TWiML x Fast.ai Study Group - This Week in Machine Learning & AI](https://twimlai.com/twiml-x-fast-ai/)
 * [Building Web App for Computer Vision Model & Deploying to Production in 10 Minutes\*: A Detailed Guide](https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4)
 * [Deep Learning Web App by fastai v1 -Pierre Guillou - Medium](https://medium.com/@pierre_guillou/deep-learning-web-app-by-fastai-v1-3ab4c20b7cac)
@@ -68,13 +68,13 @@ and more.... :shipit:
 * [Announcing fast.ai part 1 now available as Kaggle Kernels](https://towardsdatascience.com/announcing-fast-ai-part-1-now-available-as-kaggle-kernels-8ef4ca3b9ce6)
 * [Track and organize fastai experimentation process in Neptune](https://medium.com/neptune-ml/track-and-organize-fastai-experimentation-process-in-neptune-78ec8d6b18b0)
 
-## Quizzes
+#### Quizzes
 * [Lecture 8 Quiz](https://t.co/ad33OFMBYI?amp=1)
 
-## TwiML :sparkle:
+#### TwiML :sparkle:
 * [This Week in Machine Learning & AI - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/playlists)
 
-## Contribute :loudspeaker: 
+#### Contribute :loudspeaker: 
 Head over to [guidelines](https://github.com/ucalyptus/awesome-fastai/blob/master/CONTRIBUTING.md)
 or file an issue at [Issues](https://github.com/ucalyptus/awesome-fastai/issues/)
 
